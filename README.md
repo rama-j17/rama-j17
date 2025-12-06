@@ -1,4 +1,4 @@
-# Hi, I'm Rama 👋  
+### Hi, I'm Rama 👋  
 
 I'm an engineer exploring the intersection of data, AI, and real-world product building.  
 My work revolves around machine learning, foundational AI concepts, and creating systems that scale from idea → prototype → outcome.
