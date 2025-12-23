@@ -1,34 +1,38 @@
 Hi, I'm Rama 👋  
 
-I build data-driven systems and AI-powered prototypes that turn messy data into reliable decisions and scalable products.
+I build **data-driven systems** that combine **Data Engineering foundations** with **Data Science and Generative AI** to turn messy data into reliable decisions and scalable products.
 
-I focus on the **engineering side of ML** — from problem framing → data → experimentation → deployment-ready outcomes.
+My work spans the **full lifecycle of data systems** — from ingestion and modeling, to analysis, machine learning, and GenAI applications such as RAG and agents.
 
 ---
 
 ### 🚀 What I build
-- End-to-end **data analysis and ML pipelines**
-- **Retrieval-Augmented Generation (RAG)** and agent-based prototypes
-- Feature engineering workflows that improve model reliability
-- Early-stage AI product prototypes with measurable outcomes
+- End-to-end **data engineering pipelines** (batch & streaming)
+- **Data science workflows**: analysis, feature engineering, and modeling
+- **Generative AI applications** (RAG systems, agent-based prototypes)
+- ML- and GenAI-ready datasets with a focus on reliability and evaluation
 
 ---
 
 ### 🧠 Current focus (2025)
-- Translating business problems into ML formulations
-- Building RAG systems with evaluation & failure analysis
-- Model monitoring, data quality, and system robustness
-- Reading research papers and converting ideas into working code
+- Designing analytics- and ML-ready **data models**
+- Building **RAG pipelines** with evaluation and failure analysis
+- Feature engineering and data quality for ML systems
+- Converting ideas into production-oriented data & AI solutions
 
 ---
 
 ### 🛠 Tech Stack
-**Languages:** Python, R, SQL  
-**Data & ML:** NumPy, Pandas, Power BI, Pyspark, Scikit-learn, PyTorch  
-**Practices:** Feature Engineering, Model Evaluation, Data Analysis, Data Warehousing  
-**Concepts:** Statistics, ML fundamentals, system design for ML, scalable pipelines
+**Languages:** Python, SQL  
+**Data Engineering:** Spark (PySpark), ETL / ELT, Data Modeling, Data Warehousing  
+**Data Science & ML:** Pandas, Scikit-learn, PyTorch, Statistics, Model Evaluation  
+**Generative AI:** RAG pipelines, agent workflows  
+**Cloud & Tools:** AWS (S3, Redshift), Git  
+**Analytics:** Power BI (consumption layer)
 
 ---
 
-### 📬 Let's connect
-I'm open to internships, contract roles, and early-career opportunities where I can contribute to real-world ML and data systems.
+### 📬 Let’s connect
+I’m open to internships, contract roles, and early-career opportunities where I can
+contribute across **Data Engineering and Data Science**, building production-ready
+systems and AI-powered products.
