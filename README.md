@@ -24,15 +24,17 @@ My work spans the **full lifecycle of data systems** — from ingestion and mode
 
 ### 🛠 Tech Stack
 **Languages:** Python, SQL  
-**Data Engineering:** Spark (PySpark), ETL / ELT, Data Modeling, Data Warehousing  
-**Data Science & ML:** Pandas, Scikit-learn, PyTorch, Statistics, Model Evaluation  
-**Generative AI:** RAG pipelines, agent workflows  
-**Cloud & Tools:** AWS (S3, Redshift), Git  
 **Analytics:** Power BI (consumption layer)
+**Data Science & ML:** Pandas, Scikit-learn, PyTorch, Statistics, Model Evaluation  
+**Data Engineering:** Spark (PySpark), ETL / ELT, Data Modeling, Data Warehousing  
+**Cloud & Tools:** AWS (S3, Redshift), Git 
+**Generative AI:** RAG pipelines, agent workflows  
+
+
 
 ---
 
 ### 📬 Let’s connect
 I’m open to internships, contract roles, and early-career opportunities where I can
-contribute across **Data Engineering and Data Science**, building production-ready
+contribute across **Data Professional** career, building production-ready
 systems and AI-powered products.
