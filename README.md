@@ -7,10 +7,9 @@ My work spans the **full lifecycle of data systems** — from ingestion and mode
 ---
 
 ### 🚀 What I build
-- End-to-end **data engineering pipelines** (batch & streaming)
 - **Data science workflows**: analysis, feature engineering, and modeling
 - **Generative AI applications** (RAG systems, agent-based prototypes)
-- ML- and GenAI-ready datasets with a focus on reliability and evaluation
+- End-to-end **data pipelines** (batch & streaming)
 
 ---
 
